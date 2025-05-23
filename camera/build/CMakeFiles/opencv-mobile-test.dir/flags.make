@@ -4,7 +4,7 @@
 # compile CXX with /home/angelo/Downloads/MILKV/duo-examples/camera/../host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-g++
 CXX_DEFINES = -DOPENCV_DISABLE_THREAD_SUPPORT=1
 
-CXX_INCLUDES = -isystem /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.11.0-milkv-duo/include/opencv4
+CXX_INCLUDES = -isystem /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.8.0-milkv-duo/include/opencv4
 
 CXX_FLAGS = -std=gnu++11
 

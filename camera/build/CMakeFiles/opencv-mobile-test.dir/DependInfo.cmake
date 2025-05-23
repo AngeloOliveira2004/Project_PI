@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/angelo/Downloads/MILKV/duo-examples/camera/main.cpp" "CMakeFiles/opencv-mobile-test.dir/main.cpp.o" "gcc" "CMakeFiles/opencv-mobile-test.dir/main.cpp.o.d"
+  "/home/angelo/Downloads/MILKV/duo-examples/camera/performance_test.cpp" "CMakeFiles/opencv-mobile-test.dir/performance_test.cpp.o" "gcc" "CMakeFiles/opencv-mobile-test.dir/performance_test.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

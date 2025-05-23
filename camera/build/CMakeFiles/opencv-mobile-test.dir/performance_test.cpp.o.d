@@ -1,15 +1,15 @@
-CMakeFiles/opencv-mobile-test.dir/main.cpp.o: \
- /home/angelo/Downloads/MILKV/duo-examples/camera/main.cpp \
+CMakeFiles/opencv-mobile-test.dir/performance_test.cpp.o: \
+ /home/angelo/Downloads/MILKV/duo-examples/camera/performance_test.cpp \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot/usr/include/stdc-predef.h \
- /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.11.0-milkv-duo/include/opencv4/opencv2/core/core.hpp \
- /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.11.0-milkv-duo/include/opencv4/opencv2/core.hpp \
- /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.11.0-milkv-duo/include/opencv4/opencv2/core/cvdef.h \
- /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.11.0-milkv-duo/include/opencv4/opencv2/core/version.hpp \
+ /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.8.0-milkv-duo/include/opencv4/opencv2/core/core.hpp \
+ /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.8.0-milkv-duo/include/opencv4/opencv2/core.hpp \
+ /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.8.0-milkv-duo/include/opencv4/opencv2/core/cvdef.h \
+ /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.8.0-milkv-duo/include/opencv4/opencv2/core/version.hpp \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/limits \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/riscv64-unknown-linux-musl/lib64xthead/lp64d/bits/c++config.h \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/riscv64-unknown-linux-musl/lib64xthead/lp64d/bits/os_defines.h \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/riscv64-unknown-linux-musl/lib64xthead/lp64d/bits/cpu_defines.h \
- /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.11.0-milkv-duo/include/opencv4/opencv2/core/hal/interface.h \
+ /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.8.0-milkv-duo/include/opencv4/opencv2/core/hal/interface.h \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/cstddef \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/lib/gcc/riscv64-unknown-linux-musl/10.2.0/include/stddef.h \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/cstdint \
@@ -17,23 +17,17 @@ CMakeFiles/opencv-mobile-test.dir/main.cpp.o: \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot/usr/include/stdint.h \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot/usr/include/bits/alltypes.h \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot/usr/include/bits/stdint.h \
- /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.11.0-milkv-duo/include/opencv4/opencv2/core/cv_cpu_dispatch.h \
- /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.11.0-milkv-duo/include/opencv4/opencv2/core/base.hpp \
- /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.11.0-milkv-duo/include/opencv4/opencv2/opencv_modules.hpp \
- /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/climits \
- /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot/usr/include/limits.h \
- /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot/usr/include/features.h \
- /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot/usr/include/bits/limits.h \
- /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/algorithm \
+ /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.8.0-milkv-duo/include/opencv4/opencv2/core/cv_cpu_dispatch.h \
+ /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/array \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/utility \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/bits/stl_relops.h \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/bits/stl_pair.h \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/bits/move.h \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/type_traits \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/initializer_list \
- /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/bits/stl_algobase.h \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/bits/functexcept.h \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/bits/exception_defines.h \
+ /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/bits/stl_algobase.h \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/bits/cpp_type_traits.h \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/ext/type_traits.h \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/ext/numeric_traits.h \
@@ -45,6 +39,18 @@ CMakeFiles/opencv-mobile-test.dir/main.cpp.o: \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/bits/ptr_traits.h \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/debug/debug.h \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/bits/predefined_ops.h \
+ /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/bits/range_access.h \
+ /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/bits/iterator_concepts.h \
+ /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/concepts \
+ /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/bits/range_cmp.h \
+ /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/bits/int_limits.h \
+ /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.8.0-milkv-duo/include/opencv4/opencv2/core/base.hpp \
+ /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.8.0-milkv-duo/include/opencv4/opencv2/opencv_modules.hpp \
+ /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/climits \
+ /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot/usr/include/limits.h \
+ /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot/usr/include/features.h \
+ /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot/usr/include/bits/limits.h \
+ /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/algorithm \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/bits/stl_algo.h \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/cstdlib \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot/usr/include/stdlib.h \
@@ -63,7 +69,7 @@ CMakeFiles/opencv-mobile-test.dir/main.cpp.o: \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/bits/hash_bytes.h \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/bits/nested_exception.h \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/bits/uniform_int_dist.h \
- /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.11.0-milkv-duo/include/opencv4/opencv2/core/cvstd.hpp \
+ /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.8.0-milkv-duo/include/opencv4/opencv2/core/cvstd.hpp \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/cstring \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot/usr/include/string.h \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot/usr/include/strings.h \
@@ -88,11 +94,6 @@ CMakeFiles/opencv-mobile-test.dir/main.cpp.o: \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/bits/cxxabi_forced.h \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/bits/stl_function.h \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/backward/binders.h \
- /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/bits/range_access.h \
- /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/bits/iterator_concepts.h \
- /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/concepts \
- /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/bits/range_cmp.h \
- /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/bits/int_limits.h \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/bits/basic_string.h \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/ext/atomicity.h \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/riscv64-unknown-linux-musl/lib64xthead/lp64d/bits/gthr.h \
@@ -114,7 +115,7 @@ CMakeFiles/opencv-mobile-test.dir/main.cpp.o: \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/bits/basic_string.tcc \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/cmath \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot/usr/include/math.h \
- /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.11.0-milkv-duo/include/opencv4/opencv2/core/cvstd_wrapper.hpp \
+ /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.8.0-milkv-duo/include/opencv4/opencv2/core/cvstd_wrapper.hpp \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/memory \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/bits/stl_uninitialized.h \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/bits/stl_raw_storage_iter.h \
@@ -123,7 +124,6 @@ CMakeFiles/opencv-mobile-test.dir/main.cpp.o: \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/bits/uses_allocator.h \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/bits/unique_ptr.h \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/tuple \
- /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/array \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/bits/invoke.h \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/bits/shared_ptr.h \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/bits/shared_ptr_base.h \
@@ -134,28 +134,27 @@ CMakeFiles/opencv-mobile-test.dir/main.cpp.o: \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/bits/atomic_base.h \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/bits/atomic_lockfree_defines.h \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/backward/auto_ptr.h \
- /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.11.0-milkv-duo/include/opencv4/opencv2/core/neon_utils.hpp \
- /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.11.0-milkv-duo/include/opencv4/opencv2/core/vsx_utils.hpp \
+ /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.8.0-milkv-duo/include/opencv4/opencv2/core/neon_utils.hpp \
+ /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.8.0-milkv-duo/include/opencv4/opencv2/core/vsx_utils.hpp \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot/usr/include/assert.h \
- /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.11.0-milkv-duo/include/opencv4/opencv2/core/check.hpp \
- /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.11.0-milkv-duo/include/opencv4/opencv2/core/traits.hpp \
- /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.11.0-milkv-duo/include/opencv4/opencv2/core/matx.hpp \
- /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.11.0-milkv-duo/include/opencv4/opencv2/core/saturate.hpp \
- /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.11.0-milkv-duo/include/opencv4/opencv2/core/fast_math.hpp \
- /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.11.0-milkv-duo/include/opencv4/opencv2/core/matx.inl.hpp \
- /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.11.0-milkv-duo/include/opencv4/opencv2/core/types.hpp \
+ /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.8.0-milkv-duo/include/opencv4/opencv2/core/check.hpp \
+ /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.8.0-milkv-duo/include/opencv4/opencv2/core/traits.hpp \
+ /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.8.0-milkv-duo/include/opencv4/opencv2/core/matx.hpp \
+ /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.8.0-milkv-duo/include/opencv4/opencv2/core/saturate.hpp \
+ /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.8.0-milkv-duo/include/opencv4/opencv2/core/fast_math.hpp \
+ /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.8.0-milkv-duo/include/opencv4/opencv2/core/types.hpp \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/cfloat \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/lib/gcc/riscv64-unknown-linux-musl/10.2.0/include/float.h \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/vector \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/bits/stl_vector.h \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/bits/stl_bvector.h \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/bits/vector.tcc \
- /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.11.0-milkv-duo/include/opencv4/opencv2/core/mat.hpp \
- /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.11.0-milkv-duo/include/opencv4/opencv2/core/bufferpool.hpp \
- /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.11.0-milkv-duo/include/opencv4/opencv2/core/mat.inl.hpp \
- /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.11.0-milkv-duo/include/opencv4/opencv2/core/persistence.hpp \
- /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.11.0-milkv-duo/include/opencv4/opencv2/core/operations.hpp \
- /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.11.0-milkv-duo/include/opencv4/opencv2/core/cvstd.inl.hpp \
+ /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.8.0-milkv-duo/include/opencv4/opencv2/core/mat.hpp \
+ /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.8.0-milkv-duo/include/opencv4/opencv2/core/bufferpool.hpp \
+ /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.8.0-milkv-duo/include/opencv4/opencv2/core/mat.inl.hpp \
+ /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.8.0-milkv-duo/include/opencv4/opencv2/core/persistence.hpp \
+ /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.8.0-milkv-duo/include/opencv4/opencv2/core/operations.hpp \
+ /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.8.0-milkv-duo/include/opencv4/opencv2/core/cvstd.inl.hpp \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/complex \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/sstream \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/istream \
@@ -181,7 +180,7 @@ CMakeFiles/opencv-mobile-test.dir/main.cpp.o: \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/bits/ostream.tcc \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/bits/istream.tcc \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/bits/sstream.tcc \
- /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.11.0-milkv-duo/include/opencv4/opencv2/core/utility.hpp \
+ /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.8.0-milkv-duo/include/opencv4/opencv2/core/utility.hpp \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/functional \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/bits/std_function.h \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/mutex \
@@ -191,11 +190,13 @@ CMakeFiles/opencv-mobile-test.dir/main.cpp.o: \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/bits/parse_numbers.h \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/bits/std_mutex.h \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/bits/unique_lock.h \
- /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.11.0-milkv-duo/include/opencv4/opencv2/core/optim.hpp \
- /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.11.0-milkv-duo/include/opencv4/opencv2/highgui/highgui.hpp \
- /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.11.0-milkv-duo/include/opencv4/opencv2/imgproc/imgproc.hpp \
- /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.11.0-milkv-duo/include/opencv4/opencv2/imgproc.hpp \
- /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.11.0-milkv-duo/include/opencv4/opencv2/imgproc/segmentation.hpp \
+ /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.8.0-milkv-duo/include/opencv4/opencv2/core/optim.hpp \
+ /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.8.0-milkv-duo/include/opencv4/opencv2/core/ovx.hpp \
+ /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.8.0-milkv-duo/include/opencv4/opencv2/core/cvdef.h \
+ /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.8.0-milkv-duo/include/opencv4/opencv2/highgui/highgui.hpp \
+ /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.8.0-milkv-duo/include/opencv4/opencv2/imgproc/imgproc.hpp \
+ /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.8.0-milkv-duo/include/opencv4/opencv2/imgproc.hpp \
+ /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.8.0-milkv-duo/include/opencv4/opencv2/imgproc/segmentation.hpp \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot/usr/include/unistd.h \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot/usr/include/bits/posix.h \
  /home/angelo/Downloads/MILKV/duo-examples/host-tools/gcc/riscv64-linux-musl-x86_64/riscv64-unknown-linux-musl/include/c++/10.2.0/iostream

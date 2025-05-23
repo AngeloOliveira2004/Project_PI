@@ -129,29 +129,29 @@ opencv-mobile-test/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/opencv-mobile-test.dir/build.make CMakeFiles/opencv-mobile-test.dir/build
 .PHONY : opencv-mobile-test/fast
 
-main.o: main.cpp.o
-.PHONY : main.o
+performance_test.o: performance_test.cpp.o
+.PHONY : performance_test.o
 
 # target to build an object file
-main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/opencv-mobile-test.dir/build.make CMakeFiles/opencv-mobile-test.dir/main.cpp.o
-.PHONY : main.cpp.o
+performance_test.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/opencv-mobile-test.dir/build.make CMakeFiles/opencv-mobile-test.dir/performance_test.cpp.o
+.PHONY : performance_test.cpp.o
 
-main.i: main.cpp.i
-.PHONY : main.i
+performance_test.i: performance_test.cpp.i
+.PHONY : performance_test.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/opencv-mobile-test.dir/build.make CMakeFiles/opencv-mobile-test.dir/main.cpp.i
-.PHONY : main.cpp.i
+performance_test.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/opencv-mobile-test.dir/build.make CMakeFiles/opencv-mobile-test.dir/performance_test.cpp.i
+.PHONY : performance_test.cpp.i
 
-main.s: main.cpp.s
-.PHONY : main.s
+performance_test.s: performance_test.cpp.s
+.PHONY : performance_test.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/opencv-mobile-test.dir/build.make CMakeFiles/opencv-mobile-test.dir/main.cpp.s
-.PHONY : main.cpp.s
+performance_test.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/opencv-mobile-test.dir/build.make CMakeFiles/opencv-mobile-test.dir/performance_test.cpp.s
+.PHONY : performance_test.cpp.s
 
 # Help Target
 help:
@@ -162,9 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... opencv-mobile-test"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
+	@echo "... performance_test.o"
+	@echo "... performance_test.i"
+	@echo "... performance_test.s"
 .PHONY : help
 
 

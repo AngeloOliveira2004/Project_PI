@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/opencv-mobile-test.dir/main.cpp.o"
-  "CMakeFiles/opencv-mobile-test.dir/main.cpp.o.d"
+  "CMakeFiles/opencv-mobile-test.dir/performance_test.cpp.o"
+  "CMakeFiles/opencv-mobile-test.dir/performance_test.cpp.o.d"
   "opencv-mobile-test"
   "opencv-mobile-test.pdb"
 )

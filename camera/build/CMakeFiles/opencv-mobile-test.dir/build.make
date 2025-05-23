@@ -69,37 +69,37 @@ include CMakeFiles/opencv-mobile-test.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/opencv-mobile-test.dir/flags.make
 
-CMakeFiles/opencv-mobile-test.dir/main.cpp.o: CMakeFiles/opencv-mobile-test.dir/flags.make
-CMakeFiles/opencv-mobile-test.dir/main.cpp.o: /home/angelo/Downloads/MILKV/duo-examples/camera/main.cpp
-CMakeFiles/opencv-mobile-test.dir/main.cpp.o: CMakeFiles/opencv-mobile-test.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/angelo/Downloads/MILKV/duo-examples/camera/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/opencv-mobile-test.dir/main.cpp.o"
-	/home/angelo/Downloads/MILKV/duo-examples/camera/../host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/opencv-mobile-test.dir/main.cpp.o -MF CMakeFiles/opencv-mobile-test.dir/main.cpp.o.d -o CMakeFiles/opencv-mobile-test.dir/main.cpp.o -c /home/angelo/Downloads/MILKV/duo-examples/camera/main.cpp
+CMakeFiles/opencv-mobile-test.dir/performance_test.cpp.o: CMakeFiles/opencv-mobile-test.dir/flags.make
+CMakeFiles/opencv-mobile-test.dir/performance_test.cpp.o: /home/angelo/Downloads/MILKV/duo-examples/camera/performance_test.cpp
+CMakeFiles/opencv-mobile-test.dir/performance_test.cpp.o: CMakeFiles/opencv-mobile-test.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/angelo/Downloads/MILKV/duo-examples/camera/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/opencv-mobile-test.dir/performance_test.cpp.o"
+	/home/angelo/Downloads/MILKV/duo-examples/camera/../host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/opencv-mobile-test.dir/performance_test.cpp.o -MF CMakeFiles/opencv-mobile-test.dir/performance_test.cpp.o.d -o CMakeFiles/opencv-mobile-test.dir/performance_test.cpp.o -c /home/angelo/Downloads/MILKV/duo-examples/camera/performance_test.cpp
 
-CMakeFiles/opencv-mobile-test.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/opencv-mobile-test.dir/main.cpp.i"
-	/home/angelo/Downloads/MILKV/duo-examples/camera/../host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/angelo/Downloads/MILKV/duo-examples/camera/main.cpp > CMakeFiles/opencv-mobile-test.dir/main.cpp.i
+CMakeFiles/opencv-mobile-test.dir/performance_test.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/opencv-mobile-test.dir/performance_test.cpp.i"
+	/home/angelo/Downloads/MILKV/duo-examples/camera/../host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/angelo/Downloads/MILKV/duo-examples/camera/performance_test.cpp > CMakeFiles/opencv-mobile-test.dir/performance_test.cpp.i
 
-CMakeFiles/opencv-mobile-test.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/opencv-mobile-test.dir/main.cpp.s"
-	/home/angelo/Downloads/MILKV/duo-examples/camera/../host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/angelo/Downloads/MILKV/duo-examples/camera/main.cpp -o CMakeFiles/opencv-mobile-test.dir/main.cpp.s
+CMakeFiles/opencv-mobile-test.dir/performance_test.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/opencv-mobile-test.dir/performance_test.cpp.s"
+	/home/angelo/Downloads/MILKV/duo-examples/camera/../host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/angelo/Downloads/MILKV/duo-examples/camera/performance_test.cpp -o CMakeFiles/opencv-mobile-test.dir/performance_test.cpp.s
 
 # Object files for target opencv-mobile-test
 opencv__mobile__test_OBJECTS = \
-"CMakeFiles/opencv-mobile-test.dir/main.cpp.o"
+"CMakeFiles/opencv-mobile-test.dir/performance_test.cpp.o"
 
 # External object files for target opencv-mobile-test
 opencv__mobile__test_EXTERNAL_OBJECTS =
 
-opencv-mobile-test: CMakeFiles/opencv-mobile-test.dir/main.cpp.o
+opencv-mobile-test: CMakeFiles/opencv-mobile-test.dir/performance_test.cpp.o
 opencv-mobile-test: CMakeFiles/opencv-mobile-test.dir/build.make
-opencv-mobile-test: /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.11.0-milkv-duo/lib/libopencv_core.a
-opencv-mobile-test: /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.11.0-milkv-duo/lib/libopencv_features2d.a
-opencv-mobile-test: /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.11.0-milkv-duo/lib/libopencv_highgui.a
-opencv-mobile-test: /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.11.0-milkv-duo/lib/libopencv_imgproc.a
-opencv-mobile-test: /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.11.0-milkv-duo/lib/libopencv_photo.a
-opencv-mobile-test: /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.11.0-milkv-duo/lib/libopencv_video.a
-opencv-mobile-test: /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.11.0-milkv-duo/lib/libopencv_imgproc.a
-opencv-mobile-test: /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.11.0-milkv-duo/lib/libopencv_core.a
+opencv-mobile-test: /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.8.0-milkv-duo/lib/libopencv_core.a
+opencv-mobile-test: /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.8.0-milkv-duo/lib/libopencv_features2d.a
+opencv-mobile-test: /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.8.0-milkv-duo/lib/libopencv_highgui.a
+opencv-mobile-test: /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.8.0-milkv-duo/lib/libopencv_imgproc.a
+opencv-mobile-test: /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.8.0-milkv-duo/lib/libopencv_photo.a
+opencv-mobile-test: /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.8.0-milkv-duo/lib/libopencv_video.a
+opencv-mobile-test: /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.8.0-milkv-duo/lib/libopencv_imgproc.a
+opencv-mobile-test: /home/angelo/Downloads/MILKV/duo-examples/camera/opencv-mobile-4.8.0-milkv-duo/lib/libopencv_core.a
 opencv-mobile-test: CMakeFiles/opencv-mobile-test.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/angelo/Downloads/MILKV/duo-examples/camera/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable opencv-mobile-test"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/opencv-mobile-test.dir/link.txt --verbose=$(VERBOSE)
