@@ -11,6 +11,6 @@ set(CMAKE_EXE_LINKER_FLAGS "${CMAKE_EXE_LINKER_FLAGS} -mcpu=c906fdv -march=rv64i
 set(OpenCV_DIR "${CMAKE_CURRENT_SOURCE_DIR}/opencv-mobile-4.11.0-milkv-duo/lib/cmake/opencv4")
 find_package(OpenCV REQUIRED)
 
-add_executable(opencv-mobile-test main.cpp)
+add_executable(opencv-mobile-test performance_test.cpp)
 
 target_link_libraries(opencv-mobile-test ${OpenCV_LIBS})
